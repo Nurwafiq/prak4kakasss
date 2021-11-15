@@ -7,5 +7,5 @@ Route::get('/mahasiswa', [mahasiswaController::class, 'mahasiswa'])->name('mahas
 Route::post('/mahasiswa',[mahasiswaController::class,'data'])->name('mahasiswa');
 
 Route::get('/', function () {
-    return view('welcome');
+    //return view('welcome');
 });
