@@ -1,0 +1,2 @@
+buat branch baru kemudian pindah ke branch yang sudah dibuat tadi
+buat file di repositiry kemudian push menggunakan branch yang baru di buat
